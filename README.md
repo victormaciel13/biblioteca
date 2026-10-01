@@ -6,7 +6,6 @@ que impedem, por exemplo, emprestar um livro que não está mais na estante.
 
 ## Equipe
 
-| Nome | RM |
 |Victor Camargo Maciel| RM98384|
 |Geovanna Silva Cunha|  RM97736|
 
