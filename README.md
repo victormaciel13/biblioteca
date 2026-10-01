@@ -1,4 +1,4 @@
-# Sistema de Empréstimo de Livros — Backend com MongoDB
+#  Empréstimo de Livros & Backend com MongoDB
 
 Backend do novo sistema da biblioteca da faculdade, substituindo a planilha de
 controle. Gerencia livros, alunos e empréstimos no MongoDB, com regras de negócio
@@ -7,8 +7,8 @@ que impedem, por exemplo, emprestar um livro que não está mais na estante.
 ## Equipe
 
 | Nome | RM |
-|------|----|
-| _preencher_ | _preencher_ |
+|Victor Camargo Maciel| RM98384|
+|Geovanna Silva Cunha|  RM97736|
 
 ## Estrutura do projeto
 
